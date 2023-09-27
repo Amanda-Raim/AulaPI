@@ -1,0 +1,32 @@
+.header{background-color:#ffb23ed8; 
+    height: 500px; 
+    width: 500px;
+    }
+    
+    .header .container{
+    height: 50%; 
+    float: left;
+    width: 50%; 
+    background-color:#42ff42;
+    }
+    
+    .header .assunto .texto{
+    background-color:#ff4a4ad8; 
+    color:#efefef; 
+    float: left;
+    font-size: 25px; 
+    font-family: monospace; 
+    font-weight: bold; 
+    }
+    
+    #div_d{background-color:rgba(44, 178, 255, 0.89); 
+    float: left;
+    width: 50%; 
+    height: 50vh; 
+    }
+    
+    #div_e{background-color:rgba(249, 59, 59, 0.89);
+    float: left; 
+    height: 50%; 
+    width: 75vw; 
+    }
